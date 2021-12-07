@@ -36,7 +36,7 @@
 				    <!--  Deploy User Parameter -->
 				    <username>vinaynvk01</username>
 				    <password>11eh1a0473@V</password>
-				    <environment>sandbox</environment>
+				    <environment>Sandbox</environment>
 				    <applicationName>cicd-mule</applicationName>
 				    <workerType>Micro</workerType>
 				    <workers>1</workers>
